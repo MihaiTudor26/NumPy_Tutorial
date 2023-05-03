@@ -1,1 +1,1 @@
-# NumPy_Tutorial 🚀
+# NumPy_Tutorial 🎓
